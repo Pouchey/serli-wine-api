@@ -6,8 +6,8 @@ opencv-python==4.5.5.64
 python-multipart==0.0.5
 scikit-learn==1.2.0
 tensorflow==2.11.0
-paddleocr==2.6.1.2
-paddlepaddle==2.4.1
+# paddlepaddle==2.4.1
+# paddleocr==2.6.1.2
 easyocr==1.6.2
 # keras_ocr==0.8.9
 gensim==4.3.0
