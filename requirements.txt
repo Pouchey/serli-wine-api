@@ -5,8 +5,7 @@ uvicorn==0.20.0
 opencv-python==4.5.5.64
 python-multipart==0.0.5
 tensorflow==2.10.0
-keras==2.10.0
-keras_ocr==0.8.9
-gensim==4.3.0
-easyocr==1.6.0
+# keras_ocr==0.8.9
+# gensim==4.3.0
+easyocr==1.6.2
 scikit-learn==1.1.2
