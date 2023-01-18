@@ -12,8 +12,7 @@ origins = [
     "http://localhost:5173",
     "http://localhost:4173",
     "http://localhost:8080",
-    "http://serli-wine-app.cleverapps.io/",
-    "https://serli-wine-app.cleverapps.io/"
+    "http://serli-wine-app.cleverapps.io",
 ]
 
 
