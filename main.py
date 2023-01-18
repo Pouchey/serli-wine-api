@@ -1,17 +1,15 @@
 from fastapi import FastAPI, File, UploadFile
 import uvicorn
 from fastapi.middleware.cors import CORSMiddleware
-from src.wineController import getWine,searchWine
-from src.imageController import getImage, sendImage
+from src.controllers.wineController import getWine,searchWine
+from src.controllers.imageController import getImage, sendImage
 
-from src.resolveController import resolve
+from src.controllers.resolveController import resolve
 
 app = FastAPI()
 
 origins = [
     "http://localhost:5173",
-    "http://localhost:4173",
-    "http://localhost:8080",
     "https://serli-wine-app.cleverapps.io",
 ]
 

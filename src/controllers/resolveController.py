@@ -1,5 +1,6 @@
 import numpy as np
 import cv2
+from src.services.resolver import resolveImage
 
 async def resolve(image):
   # Images is byte array
@@ -8,8 +9,8 @@ async def resolve(image):
   # Convert to image
   image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
 
-
+  ids = resolveImage(image)
 
   return {
-    "imageIds": [1,2,3,4]
+    "imageIds": ids
   }
