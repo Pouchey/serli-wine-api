@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-data = pd.read_csv('ressources/external_data.csv')
+data = pd.read_csv('ressources/data_clean.csv')
 
 def getWine(id):
   wine = data[data['ID'] == id]
