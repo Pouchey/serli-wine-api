@@ -1,9 +1,11 @@
 from src.services.OCR.KERAS.KERAS import KERAS
+from src.services.OCR.EASYOCR.EASYOCR import EASYOCR
 from src.services.NLP.GENSIM.GENSIM import GENSIM
 # import cv2
 
 def resolveImage(image):
-    keras = KERAS()
+    # keras = KERAS()
+    keras = EASYOCR()
     OCR_prediction = keras.predict(image)
     
     gensim = GENSIM(data_path="./ressources/external_data.csv", model_path="./src/services/models/gensim.model")
