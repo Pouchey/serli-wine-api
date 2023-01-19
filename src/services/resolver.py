@@ -1,6 +1,6 @@
 # from src.services.OCR.KERAS.KERAS import KERAS
 from src.services.OCR.EASYOCR.EASYOCR import EASYOCR
-from src.services.OCR.PADDLEOCR.PADDLEOCR import PADDLEOCR
+# from src.services.OCR.PADDLEOCR.PADDLEOCR import PADDLEOCR
 from src.services.NLP.GENSIM.GENSIM import GENSIM
 from src.services.NLP.TFIDF.TFIDF import TFIDF
 
@@ -9,8 +9,8 @@ def getOCR(name):
     #     return KERAS()
     if name == "EASYOCR":
         return EASYOCR()
-    elif name == "PADDLEOCR":
-        return PADDLEOCR()
+    # elif name == "PADDLEOCR":
+    #     return PADDLEOCR()
 
 def getNLP(name):
     if name == "GENSIM":
@@ -20,7 +20,7 @@ def getNLP(name):
 
 
 def resolveImage(image):
-    OCR = getOCR("PADDLEOCR")
+    OCR = getOCR("EASYOCR")
     OCR_prediction = OCR.predict(image)
     
     NLP = getNLP("TFIDF")

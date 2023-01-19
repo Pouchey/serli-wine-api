@@ -32,12 +32,6 @@ async def resolver(
     return res
 
 
-@app.get("/api/wines/{id}")
-async def get_wine(id: int):
-    wine = getWine(id)
-    return wine
-
-
 @app.get("/api/wines/{id}/image")
 async def get_image(id: int):
     image = getImage(id)
@@ -47,6 +41,10 @@ async def get_image(id: int):
 
     return sendImage(image)
 
+@app.get("/api/wines/{id}")
+async def get_wine(id: int):
+    wine = getWine(id)
+    return wine
 
 @app.get("/api/search")
 async def get_wine(q: str):
