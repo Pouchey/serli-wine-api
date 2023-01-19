@@ -21,5 +21,5 @@ async def resolve(image):
 
   return {
     "imageIds": ids,
-    # "probabilities": probabilities
+    "probabilities": probabilities
   }
