@@ -12,9 +12,6 @@ def imageToBytes(image):
 
 
 def sendImage(image):
-    if image is None:
-        return None
-
     buffer = imageToBytes(image)
     res = StreamingResponse(buffer, media_type="image/jpeg")
     return res
