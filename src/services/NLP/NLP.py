@@ -2,7 +2,7 @@
 
 # NLP abstract class
 class NLP:
-    def __init__(self, model_path = None, data_path = None, verbose = False):
+    def __init__(self, model_path=None, data_path=None, verbose=True):
         self.verbose = verbose
         self.data = []
         self.model = None
@@ -17,7 +17,7 @@ class NLP:
     # param: path
     # return: model
     def load_model(self, path):
-        pass 
+        pass
 
     # abstract method predict
     # param: text
@@ -30,8 +30,9 @@ class NLP:
     # return: data
     def load_data(self, path):
         self.debug("[INFO] loading data from csv file:", path, "...")
-        # load data from csv file to get each line 
+        # load data from csv file to get each line
         csv_file = open(path, 'r', encoding='utf-8')
+        csv_file.readline()  # skip the first line
         # read the csv file line by line
         data = []
         for line in csv_file:

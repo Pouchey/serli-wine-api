@@ -18,6 +18,7 @@ def getNLP(name):
     if name == "TFIDF":
         return TFIDF(data_path="./ressources/data_clean.csv")
 
+
 def resolveImage(image):
     OCR = getOCR("PADDLEOCR")
     OCR_prediction = OCR.predict(image)
@@ -39,4 +40,3 @@ def resolveImage(image):
         })
 
     return res
-
