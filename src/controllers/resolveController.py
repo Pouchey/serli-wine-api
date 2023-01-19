@@ -9,8 +9,17 @@ async def resolve(image):
   # Convert to image
   image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)
 
-  ids = resolveImage(image)
+  res = resolveImage(image)
+
+  # get ids array
+  ids = [r["id"] for r in res]
+  # get probabilities array
+  probabilities = [r["probability"] for r in res]
+
+  print("ids: ", ids)
+  print("probabilities: ", probabilities)
 
   return {
-    "imageIds": ids
+    "imageIds": ids,
+    "probabilities": probabilities
   }
