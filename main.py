@@ -46,9 +46,6 @@ async def get_wine(q: str):
   wine = searchWine(q)
   return wine
 
-
-  
-
 # Configuring the server host and port
 if __name__ == '__main__':
   uvicorn.run(app, port=8080)

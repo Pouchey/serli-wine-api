@@ -1,0 +1,620 @@
+ID,NOM,PAYS,REGION,APPELLATION,PRODUCTEUR,ANNEE
+1,Domaine de La Romanée-Conti,France,Burgundy,La Tâche Grand Cru,Domaine de La Romanée-Conti,2018
+2,Domaine de La Romanée-Conti,France,Burgundy,Richebourg Grand Cru,Domaine de La Romanée-Conti,2018
+3,Torbreck,Australia,Australian,The Laird,Torbreck,2016
+4,Vega Sicilia,Spain,Spanish,Unico,Vega Sicilia,1999
+5,Château Latour,France,Bordeaux Left Bank,Grand Vin Pauillac (Premier Grand Cru Classé),Château Latour,1990
+7,Château Haut-Brion,France,Bordeaux Left Bank,Pessac-Léognan (Premier Grand Cru Classé),Château Haut-Brion,1989
+10,Château Margaux,France,Bordeaux Left Bank,Château Margaux (Premier Grand Cru Classé),Château Margaux,2000
+12,Pétrus,France,Bordeaux Right Bank,Pomerol,Pétrus,1990
+16,Château Lafite Rothschild,France,Bordeaux Left Bank,Pauillac (Premier Grand Cru Classé),Château Lafite Rothschild,2003
+18,Masseto,Italy,Tuscan,Toscana,Masseto,2006
+19,Vega Sicilia,Spain,Spanish,Unico Reserva Especial Edición,Vega Sicilia,2016
+23,Domaine de La Romanée-Conti,France,Burgundy,Grands-Échezeaux Grand Cru,Domaine de La Romanée-Conti,2014
+24,Quintarelli Giuseppe,Italy,Italian,Amarone della Valpolicella Classico,Quintarelli Giuseppe,2013
+34,Domaine de La Romanée-Conti,France,Burgundy,Romanée-Saint-Vivant Grand Cru (Marey-Monge),Domaine de La Romanée-Conti,2008
+41,Promontory,United States,Napa Valley,Promontory,Promontory,2014
+42,Quinta do Crasto,Portugal,Portuguese,Vinha Maria Teresa,Quinta do Crasto,2017
+45,Giacomo Conterno,Italy,Italian,Barolo Cascina Francia,Giacomo Conterno,2016
+47,Dominio de Pingus,Spain,Spanish,Pingus,Dominio de Pingus,2016
+48,Château Pavie,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Pavie,2015
+50,Domaine de La Romanée-Conti,France,Burgundy,Échezeaux Grand Cru,Domaine de La Romanée-Conti,2017
+52,Domaine de La Romanée-Conti,France,Burgundy,Romanée-Conti Grand Cru,Domaine de La Romanée-Conti,1978
+53,Casanova di Neri,Italy,Italian,Cerretalto Brunello di Montalcino,Casanova di Neri,2016
+57,E. Guigal,France,Northern Rhône,Côte-Rôtie La Mouline,E. Guigal,2003
+58,Domaine Armand Rousseau,France,Burgundy,Chambertin Grand Cru,Domaine Armand Rousseau,1996
+63,Le Pin,France,Bordeaux Right Bank,Pomerol,Le Pin,1990
+66,Giacomo Conterno,Italy,Italian,Barolo Riserva Monfortino,Giacomo Conterno,2015
+71,E. Guigal,France,Northern Rhône,Côte-Rôtie La Landonne,E. Guigal,1991
+72,Domaine Jacques Prieur,France,Burgundy,Musigny Grand Cru,Domaine Jacques Prieur,2012
+73,Domaine Armand Rousseau,France,Burgundy,Chambertin Clos de Beze Grand Cru,Domaine Armand Rousseau,2005
+74,Domaine G. Roumier,France,Burgundy,Bonnes-Mares Grand Cru,Domaine G. Roumier,2005
+75,Colgin,United States,Napa Valley,IX Estate Red,Colgin,2017
+76,Domaine du Comte Liger-Belair,France,Burgundy,La Romanee Grand Cru Monopole,Domaine du Comte Liger-Belair,2008
+79,Henri Jayer,France,Burgundy,Vosne-Romanée Cros Parantoux,Henri Jayer,1996
+80,Clos Rougeard,France,Middle Loire,Le Bourg Saumur Champigny,Clos Rougeard,2013
+81,Quintarelli Giuseppe,Italy,Northern Italy,Veneto Alzero Cabernet,Quintarelli Giuseppe,1996
+83,Artadi,Spain,Spanish,Viña El Pison,Artadi,2018
+84,Château Margaux,France,Bordeaux Left Bank,Margaux du Château Margaux,Château Margaux,1990
+85,Álvaro Palacios,Spain,Spanish,L'Ermita Velles Vinyes Priorat,Álvaro Palacios,2017
+89,Domaine du Comte Liger-Belair,France,Burgundy,Vosne-Romanée Clos du Chateau Monopole,Domaine du Comte Liger-Belair,2003
+90,Hundred Acre,United States,Napa Valley,Kayli Morgan Vineyard Cabernet Sauvignon,Hundred Acre,2003
+91,Schrader,United States,Napa Valley,Cabernet Sauvignon RBS Beckstoffer To Kalon Vineyard,Schrader,2019
+94,Château la Négly,France,Languedoc-Roussillon,La Porte du Ciel Languedoc La Clape,Château la Négly,2007
+95,Castello di Ama,Italy,Tuscan,L'Apparita,Castello di Ama,2018
+98,Château Angelus,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Angelus,2019
+101,Jean-Michel Gerin,France,Northern Rhône,Les Grandes Places Côte-Rôtie,Jean-Michel Gerin,1999
+105,Jacques-Frederic Mugnier,France,Burgundy,Musigny Grand Cru,Jacques-Frederic Mugnier,2009
+106,Domaine du Clos de Tart,France,Burgundy,Clos de Tart Grand Cru Monopole,Domaine du Clos de Tart,2018
+107,Domaine Armand Rousseau,France,Burgundy,Ruchottes-Chambertin Grand Cru Clos des Ruchottes,Domaine Armand Rousseau,2015
+108,Henri Bonneau,France,Southern Rhône,Chateauneuf-du-Pape Réserve des Célestins,Henri Bonneau,1990
+109,Descendientes de J. Palacios,Spain,Spanish,La Faraona Bierzo (Corullón),Descendientes de J. Palacios,2017
+112,Méo-Camuzet,France,Burgundy,Vosne-Romanée 1er Cru 'Aux Brulées',Méo-Camuzet,2009
+114,Emmanuel Rouget,France,Burgundy,Echezeaux Grand Cru,Emmanuel Rouget,2018
+115,The Napa Valley Reserve,United States,Napa Valley,Red,The Napa Valley Reserve,2018
+117,Delas,France,Northern Rhône,Ligne de Crete Les Grandes Vignes Hermitage,Delas,2018
+120,Antinori,Italy,Tuscan,Tignanello,Antinori,2018
+121,El Enemigo,Argentina,Tupungato,Gran Enemigo Single Vineyard Gualtallary Cabernet Franc,El Enemigo,2013
+122,Vega Sicilia,Spain,Spanish,Valbuena 5º,Vega Sicilia,2010
+123,Tenuta San Guido,Italy,Italian,Sassicaia,Tenuta San Guido,2016
+125,Opus One,United States,Napa Valley,Opus One,Opus One,2015
+129,Château Pontet-Canet,France,Bordeaux Left Bank,Pauillac (Grand Cru Classé),Château Pontet-Canet,2009
+134,Château Mouton Rothschild,France,Bordeaux Left Bank,Pauillac (Premier Grand Cru Classé),Château Mouton Rothschild,2001
+135,Caymus,United States,Napa Valley,Special Selection Cabernet Sauvignon,Caymus,2016
+141,Antinori,Italy,Tuscan,Tenuta Tignanello 'Solaia',Antinori,2015
+144,Ornellaia,Italy,Italian,Bolgheri Superiore,Ornellaia,2007
+145,Catena Zapata,Argentina,Argentinian,Nicolás Catena Zapata,Catena Zapata,2017
+154,Cartuxa,Portugal,Portuguese,Pêra-Manca Tinto,Cartuxa,2014
+172,Château Cheval Blanc,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Cheval Blanc,1995
+174,Chateau Palmer,France,Bordeaux Left Bank,Grand Vin de Château Palmer (Grand Cru Classé),Chateau Palmer,2005
+183,Château Pichon Longueville Comtesse de Lalande,France,Bordeaux Left Bank,Pauillac (Grand Cru Classé),Château Pichon Longueville Comtesse de Lalande,1982
+191,Penfolds,Australia,Australian,Grange,Penfolds,1999
+195,Château Ducru-Beaucaillou,France,Bordeaux Left Bank,Saint-Julien (Grand Cru Classé),Château Ducru-Beaucaillou,2009
+203,Dal Forno Romano,Italy,Italian,Amarone della Valpolicella Monte Lodoletta,Dal Forno Romano,2008
+215,Château Rayas,France,Southern Rhône,Châteauneuf-du-Pape,Château Rayas,2006
+238,Shafer,United States,Napa Valley,Hillside Select Cabernet Sauvignon,Shafer,2010
+249,Château La Mission Haut-Brion,France,Bordeaux Left Bank,Pessac-Léognan (Grand Cru Classé de Graves),Château La Mission Haut-Brion,2000
+252,Viña Cobos,Argentina,Argentinian,Cobos Volturno,Viña Cobos,2011
+260,Domaine Jean-Louis Chave,France,Northern Rhône,L'Hermitage,Domaine Jean-Louis Chave,2011
+271,Quinta Vale D. Maria,Portugal,Portuguese,Vinha da Francisca Douro,Quinta Vale D. Maria,2018
+272,Ornellaia,Italy,Italian,Vendemmia d'Artista La Tensione,Ornellaia,2016
+275,Pegau,France,Southern Rhône,Cuvée Da Capo Châteauneuf-du-Pape,Pegau,2007
+284,Château l'Évangile,France,Bordeaux Right Bank,Pomerol,Château l'Évangile,2009
+288,Austin Hope,United States,Californian,Reserve Cabernet Sauvignon,Austin Hope,2018
+291,Dominus,United States,Napa Valley,Dominus (Christian Moueix),Dominus,2018
+295,Quintessa,United States,Napa Valley,Rutherford,Quintessa,2019
+298,E. Guigal,France,Northern Rhône,Côte-Rôtie La Turque,E. Guigal,2011
+299,Teso La Monja,Spain,Spanish,Alabaster,Teso La Monja,2016
+300,Sine Qua Non,United States,Californian,Ratsel Syrah,Sine Qua Non,2016
+302,Tommasi,Italy,Italian,De Buris Amarone della Valpolicella Classico Riserva,Tommasi,2008
+303,Duckhorn,United States,Napa Valley,The Discussion,Duckhorn,2017
+310,Château Ausone,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Ausone,1999
+312,Château Tertre Roteboeuf,France,Bordeaux Right Bank,Saint-Émilion Grand Cru,Château Tertre Roteboeuf,2010
+317,Biserno,Italy,Tuscan,Lodovico,Biserno,2017
+325,Eisele Vineyard,United States,Napa Valley,Cabernet Sauvignon,Eisele Vineyard,2013
+326,Antinori,Italy,Tuscan,Tenuta Guado al Tasso Matarocchio,Antinori,2016
+334,Stag's Leap Wine Cellars,United States,Napa Valley,CASK 23 Cabernet Sauvignon,Stag's Leap Wine Cellars,2018
+343,Mascarello Giuseppe e Figlio,Italy,Italian,Barolo Monprivato,Mascarello Giuseppe e Figlio,2016
+348,Screaming Eagle,United States,Napa Valley,The Flight,Screaming Eagle,2011
+353,Quinta do Zambujeiro,Portugal,Portuguese,Zambujeiro,Quinta do Zambujeiro,2015
+354,Henschke,Australia,Australian,Hill of Grace,Henschke,2006
+380,Château de Beaucastel,France,Southern Rhône,Hommage à Jacques Perrin Châteauneuf-du-Pape,Château de Beaucastel,1998
+385,Bodega Contador (Benjamín Romeo),Spain,Spanish,Contador Rioja,Bodega Contador (Benjamín Romeo),2015
+399,Gaja,Italy,Northern Italy,Darmagi Langhe,Gaja,1999
+401,Bond,United States,Napa Valley,St. Eden,Bond,2006
+407,Château Lafite Rothschild,France,Bordeaux Left Bank,Carruades de Lafite Pauillac,Château Lafite Rothschild,1986
+411,Quinta do Crasto,Portugal,Portuguese,Vinha da Ponte,Quinta do Crasto,2016
+421,Domaine Comte Georges de Vogüé,France,Burgundy,Musigny Grand Cru (Cuveé Vieilles Vignes),Domaine Comte Georges de Vogüé,2017
+430,Viña Cobos,Argentina,Argentinian,Cobos Marchiori Estate Malbec,Viña Cobos,2018
+431,Château Pavie Decesse,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Grand Cru Classé),Château Pavie Decesse,2005
+435,Soldera,Italy,Tuscan,Case Basse Sangiovese Toscana,Soldera,2014
+436,Sequoia Grove,United States,Napa Valley,Cambium,Sequoia Grove,2015
+438,Costa Boal Family Estates,Portugal,Portuguese,Homenagem Grande Reserva,Costa Boal Family Estates,2011
+443,Allegrini,Italy,Italian,Fieramonte Amarone della Valpolicella Riserva,Allegrini,2011
+446,Sine Qua Non,United States,Californian,Distenta I,Sine Qua Non,2019
+448,Dalla Valle,United States,Napa Valley,Maya,Dalla Valle,2016
+456,Domaine de La Romanée-Conti,France,Burgundy,Corton Grand Cru,Domaine de La Romanée-Conti,2016
+457,Domaine Armand Rousseau,France,Burgundy,Clos de La Roche Grand Cru,Domaine Armand Rousseau,2012
+459,Kanonkop,South Africa,South African,Black Label Pinotage,Kanonkop,2018
+462,Zýmē,Italy,Italian,La Mattonara Amarone della Valpolicella Classico Riserva,Zýmē,2009
+466,Stonyridge Vineyard,New Zealand,New Zealand,Larose Red Blend,Stonyridge Vineyard,2019
+468,Château Bellevue-Mondotte,France,Bordeaux Right Bank,Saint-Émilion Grand Cru,Château Bellevue-Mondotte,2005
+469,Cardinale,United States,Napa Valley,Red,Cardinale,2017
+475,Gaja,Italy,Italian,Sperss Barolo,Gaja,2016
+476,Château Lafleur,France,Bordeaux Right Bank,Pomerol,Château Lafleur,2005
+477,Ferragù,Italy,Italian,Amarone della Valpolicella,Ferragù,2015
+481,Robert Groffier,France,Burgundy,Les Amoureuses Chambolle-Musigny 1er Cru,Robert Groffier,2006
+484,Domaine Armand Rousseau,France,Burgundy,Charmes-Chambertin Grand Cru,Domaine Armand Rousseau,2017
+486,Gaja,Italy,Italian,Sorì Tildìn (Barbaresco) Langhe,Gaja,1990
+487,Emmanuel Rouget,France,Burgundy,Vosne-Romanée 1er Cru Cros Parantoux,Emmanuel Rouget,2006
+489,Charles Smith,United States,Washington State,Royal City Syrah,Charles Smith,2016
+490,Domaine des Héritiers Louis Jadot,France,Burgundy,Corton-Pougets Grand Cru Rouge,Domaine des Héritiers Louis Jadot,2018
+493,Quintodecimo,Italy,Southern Italy,Vigna Grande Cerzito Taurasi Riserva,Quintodecimo,2015
+494,Domaine Yves Gangloff,France,Northern Rhône,La Sereine Noire Côte-Rôtie,Domaine Yves Gangloff,2015
+496,Roagna,Italy,Italian,Montefico Barbaresco Vecchie Viti,Roagna,2011
+499,Biondi-Santi,Italy,Italian,Brunello di Montalcino Riserva,Biondi-Santi,2015
+501,Diamond Creek,United States,Napa Valley,Volcanic Hill Cabernet Sauvignon,Diamond Creek,2018
+506,Domaine Taupenot-Merme,France,Burgundy,Charmes Chambertin Grand Cru,Domaine Taupenot-Merme,2012
+511,Pian dell'Orino,Italy,Italian,Bassolino di Sopra Brunello di Montalcino,Pian dell'Orino,2012
+515,Domaine Arnoux-Lachaux,France,Burgundy,Romanée-Saint-Vivant Grand Cru,Domaine Arnoux-Lachaux,2007
+516,Domaine Anne Gros,France,Burgundy,Richebourg Grand Cru,Domaine Anne Gros,2009
+517,Gaja,Italy,Italian,Sorì San Lorenzo,Gaja,1985
+519,Domaine Daniel Rion & Fils,France,Burgundy,Échezeaux Grand Cru,Domaine Daniel Rion & Fils,2017
+520,Beringer,United States,Napa Valley,Single Vineyard Steinhauer Ranch Cabernet Sauvignon,Beringer,2015
+521,Domaine René Engel,France,Burgundy,Vosne-Romanée Premier Cru Les Brulées,Domaine René Engel,2002
+528,Álvaro Palacios,Spain,Spanish,Quiñon de Valmira,Álvaro Palacios,2018
+529,Domaine Durieu,France,Southern Rhône,L'Eperdu Châteauneuf-du-Pape,Domaine Durieu,2015
+530,Sine Qua Non,United States,Californian,Distenta I Grenache,Sine Qua Non,2019
+531,Poggio di Sotto,Italy,Italian,Brunello di Montalcino Riserva,Poggio di Sotto,2016
+532,Domaine Cecile Tremblay,France,Burgundy,Chambolle-Musigny Les Cabottes,Domaine Cecile Tremblay,2012
+533,Grace Family Vineyards,United States,Napa Valley,Cabernet Sauvignon,Grace Family Vineyards,2007
+535,Domaine des Perdrix,France,Burgundy,Echezeaux Grand Cru,Domaine des Perdrix,2018
+539,Giacomo Conterno,Italy,Italian,Barolo Arione,Giacomo Conterno,2017
+542,Domaine Lafage,France,Languedoc-Roussillon,Les Onze Terrasses,Domaine Lafage,2015
+544,Corte Aleardi,Italy,Italian,Bure Alto Amarone  della Valpolicella Classico Riserva,Corte Aleardi,2010
+545,Henri Bonneau,France,Southern Rhône,Châteauneuf-du-Pape Cuvée Marie Beurrier,Henri Bonneau,2010
+547,Remoissenet Père & Fils,France,Burgundy,Richebourg Grand Cru,Remoissenet Père & Fils,1985
+550,Domaine Prieuré Roch,France,Burgundy,Le Clos Goillotte,Domaine Prieuré Roch,2006
+552,Louis Jadot,France,Burgundy,Grands-Échézeaux Grand Cru,Louis Jadot,2015
+554,Enclos,France,Bordeaux Right Bank,Tourmaline Pomerol,Enclos,2018
+557,Domaine Armand Rousseau,France,Burgundy,Gevrey-Chambertin 1er Cru Les Cazetiers,Domaine Armand Rousseau,2017
+558,Thibault Liger-Belair,France,Burgundy,Charmes-Chambertin Grand Cru,Thibault Liger-Belair,2013
+561,Domaine Trapet,France,Burgundy,Chambertin Grand Cru,Domaine Trapet,2016
+562,Schrader,United States,Napa Valley,Cabernet Sauvignon LPV Beckstoffer Las Piedras Vineyard,Schrader,2018
+566,Penfolds,Australia,Australian,Bin 111A Clare Valley Barossa Valley Shiraz,Penfolds,2016
+567,Hubert Lignier,France,Burgundy,Charmes-Chambertin Grand Cru,Hubert Lignier,2016
+568,Parusso,Italy,Italian,Barolo Bussia Riserva,Parusso,2011
+569,Tenuta di Trinoro,Italy,Tuscan,Toscana Rosso,Tenuta di Trinoro,2019
+570,Domaine Jamet,France,Northern Rhône,Côte-Rôtie Côte Brune,Domaine Jamet,1999
+572,Château La Violette,France,Bordeaux Right Bank,Pomerol,Château La Violette,2012
+573,Ardhuy,France,Burgundy,Clos de Vougeot Grand Cru,Ardhuy,2011
+577,Terlan (Terlano),Italy,Northern Italy,Terlaner I Primo,Terlan (Terlano),2018
+582,Domaine Leroy,France,Burgundy,Romanée-Saint-Vivant Grand Cru,Domaine Leroy,2001
+583,Legado,Portugal,Portuguese,Douro Tinto,Legado,2017
+591,Salicutti,Italy,Italian,Teatro Brunello di Montalcino,Salicutti,2016
+594,Henri Jayer,France,Burgundy,Échézeaux Grand Cru,Henri Jayer,1990
+595,Dana,United States,Napa Valley,Lotus Vineyard Cabernet Sauvignon,Dana,2018
+596,Abreu,United States,Napa Valley,Thorevilos Cabernet Sauvignon,Abreu,2014
+606,Quintarelli Giuseppe,Italy,Italian,Amarone della Valpolicella Classico Riserva,Quintarelli Giuseppe,2011
+610,Maison Leroy,France,Burgundy,Charmes-Chambertin Grand Cru,Maison Leroy,1998
+629,Almaviva,Chile,Chilean,Almaviva,Almaviva,2012
+630,Aalto,Spain,Spanish,PS (Pagos Seleccionados) Ribera del Duero,Aalto,2017
+632,Alión,Spain,Spanish,Ribera del Duero,Alión,2017
+636,Marqués de Murrieta,Spain,Spanish,Castillo Ygay Gran Reserva Especial Tinto,Marqués de Murrieta,2010
+647,Clos Apalta,Chile,Chilean,Clos Apalta,Clos Apalta,2009
+648,Cos d'Estournel,France,Bordeaux Left Bank,Cos d'Estournel,Cos d'Estournel,2005
+649,Château Pichon Baron,France,Bordeaux Left Bank,Pauillac (Grand Cru Classé),Château Pichon Baron,2005
+657,El Enemigo,Argentina,Argentinian,Gran Enemigo Single Vineyard El Cepillo Cabernet Franc,El Enemigo,2016
+658,Casanova di Neri,Italy,Italian,Tenuta Nuova Brunello di Montalcino,Casanova di Neri,2010
+659,El Enemigo,Argentina,Argentinian,Gran Enemigo,El Enemigo,2016
+665,Dominio de Pingus,Spain,Spanish,Flor de Pingus,Dominio de Pingus,2018
+676,Château Léoville Barton,France,Bordeaux Left Bank,Saint-Julien (Grand Cru Classé),Château Léoville Barton,2010
+677,Antinori,Italy,Italian,Tenuta Guado al Tasso Bolgheri Superiore,Antinori,2017
+682,Château Léoville Poyferré,France,Bordeaux Left Bank,Saint-Julien (Grand Cru Classé),Château Léoville Poyferré,2009
+687,Château Smith Haut-Lafitte,France,Bordeaux Left Bank,Pessac-Léognan (Grand Cru Classé de Graves),Château Smith Haut-Lafitte,2009
+688,Fontodi,Italy,Tuscan,Flaccianello della Pieve,Fontodi,2016
+689,Château Lynch-Bages,France,Bordeaux Left Bank,Pauillac (Grand Cru Classé),Château Lynch-Bages,1990
+705,Château Pape Clément,France,Bordeaux Left Bank,Pessac-Léognan (Grand Cru Classé de Graves),Château Pape Clément,2010
+712,Château Léoville Las Cases,France,Bordeaux Left Bank,Saint-Julien (Grand Cru Classé),Château Léoville Las Cases,1982
+728,Silver Oak,United States,Napa Valley,Napa Valley Cabernet Sauvignon,Silver Oak,2017
+742,Far Niente,United States,Napa Valley,Cabernet Sauvignon,Far Niente,2018
+743,La Grange des Pères,France,Languedoc-Roussillon,Vin de Pays de l'Hérault,La Grange des Pères,2011
+749,Château Montrose,France,Bordeaux Left Bank,Saint-Estèphe (Grand Cru Classé),Château Montrose,1989
+759,Gaja,Italy,Italian,Barbaresco,Gaja,2009
+761,Paul Hobbs,United States,Napa Valley,Cabernet Sauvignon,Paul Hobbs,2016
+762,Biondi-Santi,Italy,Italian,Brunello di Montalcino,Biondi-Santi,2015
+769,Montevertine,Italy,Tuscan,Le Pergole Torte,Montevertine,2015
+773,Joseph Phelps,United States,Napa Valley,Insignia,Joseph Phelps,2018
+789,Rockford,Australia,Australian,Basket Press Shiraz,Rockford,2016
+802,Château La Fleur-Pétrus,France,Bordeaux Right Bank,Pomerol,Château La Fleur-Pétrus,2009
+813,Emilio Moro,Spain,Spanish,Malleolus de Valderramiro,Emilio Moro,2015
+820,Mouchão,Portugal,Portuguese,Tonel Nº 3 - 4,Mouchão,2013
+824,Tua Rita,Italy,Tuscan,Redigaffi Toscana,Tua Rita,2015
+831,Château La Conseillante,France,Bordeaux Right Bank,Pomerol,Château La Conseillante,2010
+834,Château Latour,France,Bordeaux Left Bank,Les Forts de Latour Pauillac,Château Latour,2003
+837,Paul Jaboulet Aîné,France,Northern Rhône,Hermitage La Chapelle Rouge,Paul Jaboulet Aîné,1990
+842,Château Clinet,France,Bordeaux Right Bank,Pomerol,Château Clinet,2009
+851,Penfolds,Australia,Australian,Bin 707 Cabernet Sauvignon,Penfolds,1997
+853,Viña Vik Winery,Chile,Chilean,VIK,Viña Vik Winery,2014
+857,Le Macchiole,Italy,Tuscan,Messorio,Le Macchiole,2010
+861,Tommasi,Italy,Italian,Ca' Florian Amarone della Valpolicella Classico Riserva,Tommasi,2008
+863,Cerbaiona,Italy,Italian,Brunello di Montalcino,Cerbaiona,2012
+864,Oasi degli Angeli,Italy,Central Italy,Kurni Marche,Oasi degli Angeli,2019
+866,Viñedos de Páganos,Spain,Spanish,La Nieta,Viñedos de Páganos,2017
+868,Vieux Château Certan,France,Bordeaux Right Bank,Pomerol,Vieux Château Certan,2009
+870,Paradigm,United States,Napa Valley,Cabernet Sauvignon,Paradigm,2016
+874,Bertani,Italy,Italian,Amarone della Valpolicella Classico,Bertani,1967
+876,Kosta Browne,United States,Californian,Sonoma Coast Pinot Noir,Kosta Browne,2019
+878,Château Rayas,France,Southern Rhône,Châteauneuf-du-Pape Pignan Rouge,Château Rayas,2007
+879,Château Trotanoy,France,Bordeaux Right Bank,Pomerol,Château Trotanoy,2000
+882,Biserno,Italy,Tuscan,Bibbona,Biserno,2018
+884,Salvioni,Italy,Italian,Brunello di Montalcino,Salvioni,2013
+890,Heitz Cellar,United States,Napa Valley,Martha's Vineyard Cabernet Sauvignon,Heitz Cellar,2014
+894,Clos Rougeard,France,Middle Loire,Les Poyeux Saumur Champigny,Clos Rougeard,2011
+904,Bruno Giacosa,Italy,Italian,Falletto Barolo Le Rocche del Falletto,Bruno Giacosa,2009
+906,Matusko,Croatia,Dalmatian Coast,Dingač Royal Selection Barrique,Matusko,2011
+907,Gaja,Italy,Italian,Pieve Santa Restituta Sugarille Brunello di Montalcino,Gaja,2011
+911,Château Valandraud,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Valandraud,2005
+915,Verite,United States,Californian,La Joie,Verite,2013
+922,Domaine de La Romanée-Conti,France,Burgundy,Cuvée Duvault-Blochet Vosne-Romanée 1er Cru,Domaine de La Romanée-Conti,1999
+925,Ornellaia,Italy,Italian,Vendemmia d'Artista Solare,Ornellaia,2017
+927,M. Chapoutier,France,Northern Rhône,Ermitage Le Pavillon,M. Chapoutier,2011
+933,Château Beausejour (héritiers Duffau-Lagarrosse),France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Beausejour (héritiers Duffau-Lagarrosse),1990
+935,Stefano Accordini,Italy,Italian,Vigneto Il Fornetto Amarone della Valpolicella Classico Riserva,Stefano Accordini,2015
+937,Podere le Ripi,Italy,Italian,Lupi e Sirene Riserva,Podere le Ripi,2015
+938,Torbreck,Australia,Australian,RunRig,Torbreck,2016
+942,Verite,United States,Californian,La Muse,Verite,2013
+943,Hvar Hills,Croatia,Dalmatian Coast,Pharos Maximvs Plavac Mali,Hvar Hills,2013
+946,Fitapreta,Portugal,Portuguese,Preta Cuvée David Booth Grande Reserva,Fitapreta,2017
+952,Kamen,United States,Californian,Cabernet Sauvignon,Kamen,2018
+953,Château Canon,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Canon,1982
+954,E. Guigal,France,Northern Rhône,Ermitage Ex-Voto,E. Guigal,2010
+956,Mollydooker,Australia,Australian,Velvet Glove Shiraz,Mollydooker,2009
+957,Mongeard-Mugneret,France,Burgundy,Grands-Echezeaux Grand Cru,Mongeard-Mugneret,2015
+958,Harlan Estate,United States,Napa Valley,Harlan Estate Red,Harlan Estate,1999
+963,Ornellaia,Italy,Italian,La Grazia,Ornellaia,2018
+969,Bodega Numanthia,Spain,Spanish,Termanthia,Bodega Numanthia,2014
+970,Ridge Vineyards,United States,Californian,Monte Bello,Ridge Vineyards,2018
+975,Stag's Leap Wine Cellars,United States,Napa Valley,S.L.V. Cabernet Sauvignon,Stag's Leap Wine Cellars,2017
+978,Sierra Cantabria,Spain,Spanish,Finca el Bosque,Sierra Cantabria,2016
+979,Quinta Nova de Nossa Senhora do Carmo,Portugal,Portuguese,Douro Grande Reserva Referéncia,Quinta Nova de Nossa Senhora do Carmo,2017
+985,Clos d'Ora,France,Languedoc-Roussillon,Minervois La Livinière Rouge,Clos d'Ora,2015
+988,Méo-Camuzet,France,Burgundy,Clos de Vougeot Grand Cru,Méo-Camuzet,2011
+990,Poggio Al Tesoro,Italy,Italian,Dedicato a Walter Bolgheri Superiore,Poggio Al Tesoro,2016
+991,Verite,United States,Californian,Le Désir,Verite,2008
+992,Cakebread,United States,Napa Valley,Cabernet Sauvignon Benchland Select,Cakebread,2016
+993,Marrenon,France,Southern Rhône,Gardarèm,Marrenon,2017
+994,Quilceda Creek,United States,Washington State,Cabernet Sauvignon,Quilceda Creek,2017
+1002,Churchill's,Portugal,Portuguese,Quinta Da Gricha Douro,Churchill's,2009
+1003,DAOU,United States,Californian,Soul of a Lion,DAOU,2018
+1006,Bodegas Roda,Spain,Spanish,Cirsion Rioja,Bodegas Roda,2017
+1008,Wine & Soul,Portugal,Portuguese,Douro Pintas Tinto,Wine & Soul,2019
+1009,Chateau de Fonsalette,France,Southern Rhône,Réserve Côtes-du-Rhône,Chateau de Fonsalette,2010
+1011,Domaine Armand Rousseau,France,Burgundy,Gevrey-Chambertin 1er Cru 'Clos St Jacques',Domaine Armand Rousseau,2011
+1019,Peyre Rose,France,Languedoc-Roussillon,Marlène No. 3,Peyre Rose,2004
+1029,G. Milazzo,Italy,Southern Italy,Duca di Montalbo,G. Milazzo,2007
+1033,M. Chapoutier,France,Northern Rhône,Ermitage l'Ermite,M. Chapoutier,2011
+1039,Occidental,United States,Californian,Bodega Headlands Vineyard Cuvée Elizabeth Pinot Noir,Occidental,2017
+1043,Bartolo Mascarello,Italy,Italian,Barolo,Bartolo Mascarello,2016
+1046,Quinta do Vallado,Portugal,Portuguese,Vinha da Coroa,Quinta do Vallado,2018
+1049,Monteverro,Italy,Tuscan,Toscana,Monteverro,2016
+1050,Castello dei Rampolla,Italy,Tuscan,d'Alceo,Castello dei Rampolla,2004
+1064,Tua Rita,Italy,Tuscan,Per Sempre Syrah Toscana,Tua Rita,2013
+1065,Clos Saint Jean,France,Southern Rhône,Châteauneuf-du-Pape Deus Ex Machina,Clos Saint Jean,2007
+1066,Reynolds Wine Growers,Portugal,Southern Portugal,Gloria Reynolds Cathedral,Reynolds Wine Growers,2004
+1071,Herdade do Rocim,Portugal,Portuguese,Grande Rocim Reserva Tinto,Herdade do Rocim,2017
+1077,Brunelli,Italy,Italian,Campo Inferi Amarone della Valpolicella Classico Riserva,Brunelli,2016
+1085,Aldo Conterno,Italy,Italian,Barolo Bussia Romirasco,Aldo Conterno,2009
+1086,The Drift,South Africa,South African,There Are Still Mysteries,The Drift,2016
+1090,Brunelli,Italy,Italian,Campo del Titari Amarone della Valpolicella Classico Riserva,Brunelli,2016
+1091,Gérard Bertrand,France,Languedoc-Roussillon,Rivesaltes Legend Vintage ,Gérard Bertrand,1974
+1092,The Standish,Australia,Australian,Shiraz,The Standish,2019
+1097,Gaja,Italy,Italian,Conteisa Barolo,Gaja,2014
+1098,Clos Saint Jean,France,Southern Rhône,Chateauneuf-du-Pape La Combe Des Fous,Clos Saint Jean,2007
+1099,Château l'Eglise-Clinet,France,Bordeaux Right Bank,Pomerol,Château l'Eglise-Clinet,1998
+1104,DAOU,United States,Californian,Patrimony Cabernet Sauvignon,DAOU,2017
+1106,Quanta Terra,Portugal,Portuguese,Manifesto Tinto,Quanta Terra,2016
+1107,Château Mouton Rothschild,France,Bordeaux Left Bank,Le Petit Mouton de Mouton Rothschild Pauillac,Château Mouton Rothschild,1999
+1108,La Mondotte,France,Bordeaux Right Bank,Saint-Emilion Grand Cru (Premier Grand Cru Classé),La Mondotte,2000
+1110,Bodegas Mauro,Spain,Spanish,Terreus Paraje de Cueva Baja,Bodegas Mauro,2019
+1112,Domaine de la Côte,United States,Californian,Blooms Field Pinot Noir,Domaine de la Côte,2019
+1114,Château de Vaudieu,France,Southern Rhône,Châteauneuf-du-Pape Val de Dieu,Château de Vaudieu,2017
+1115,Château Latour à Pomerol,France,Bordeaux Right Bank,Pomerol,Château Latour à Pomerol,1982
+1119,Gaja,Italy,Italian,Costa Russi (Barbaresco) Langhe,Gaja,2016
+1120,Quinta do Fojo,Portugal,Portuguese,Fojo Tinto,Quinta do Fojo,2013
+1122,Aldo Conterno,Italy,Italian,Barolo Bussia Colonnello,Aldo Conterno,2016
+1125,Elio Altare,Italy,Italian,Arborina Barolo,Elio Altare,2016
+1130,Domaine G. Roumier,France,Burgundy,Chambolle-Musigny 1er Cru 'Les Cras',Domaine G. Roumier,2014
+1131,Vietti,Italy,Italian,Barolo Riserva Villero,Vietti,2007
+1132,Henri Bonneau,France,Southern Rhône,Châteauneuf-du-Pape,Henri Bonneau,2010
+1133,Roger Sabon,France,Southern Rhône,Châteauneuf-du-Pape Le Secret Des Sabon,Roger Sabon,2007
+1134,Anthonij Rupert,South Africa,South African,Red Blend,Anthonij Rupert,2012
+1136,Beyerskloof,South Africa,South African,Diesel Pinotage,Beyerskloof,2019
+1138,M. Chapoutier,France,Northern Rhône,Ermitage Le Méal,M. Chapoutier,2009
+1139,Domaine du Clos des Fées,France,Languedoc-Roussillon,La Petite Siberie,Domaine du Clos des Fées,2012
+1143,Ovid,United States,Napa Valley,Red Blend,Ovid,2017
+1144,Il Marroneto,Italy,Italian,Madonna delle Grazie Brunello di Montalcino,Il Marroneto,2017
+1145,Ciacci Piccolomini d'Aragona,Italy,Italian,Brunello di Montalcino Riserva Pianrosso Santa Caterina d'Oro,Ciacci Piccolomini d'Aragona,2016
+1146,Alvi's Drift,South Africa,South African,Verreaux Pinotage,Alvi's Drift,2018
+1152,The Vineyard House,United States,Napa Valley,Cabernet Sauvignon,The Vineyard House,2010
+1160,Miguel Merino,Spain,Spanish,La Loma,Miguel Merino,2018
+1165,Hentley Farm,Australia,Australian,Clos Otto,Hentley Farm,2016
+1166,Domaine Gros Frère et Soeur,France,Burgundy,Richebourg Grand Cru,Domaine Gros Frère et Soeur,2014
+1168,Hartenberg,South Africa,South African,Gravel Hill,Hartenberg,2016
+1169,Domaine René Engel,France,Burgundy,Grands-Échézeaux Grand Cru,Domaine René Engel,2004
+1170,Domaine Jacques Prieur,France,Burgundy,Corton-Bressandes Grand Cru,Domaine Jacques Prieur,2009
+1171,Quinta dos Murças,Portugal,Portuguese,VV47,Quinta dos Murças,2012
+1173,Dana,United States,Napa Valley,Onda Cabernet Sauvignon,Dana,2011
+1174,Aldo Conterno,Italy,Italian,Barolo Riserva Granbussia,Aldo Conterno,1990
+1178,Tenuta di Nozzole,Italy,Tuscan,Toscana Il Pareto,Tenuta di Nozzole,2018
+1181,Château Figeac,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Figeac,2019
+1185,Domaine Anne Gros,France,Burgundy,Clos-Vougeot Grand Cru Le Grand Maupertui,Domaine Anne Gros,2015
+1187,Rivella Serafino,Italy,Italian,Montestefano Barbaresco,Rivella Serafino,2016
+1194,Vilafonté,South Africa,South African,Series C,Vilafonté,2019
+1198,Corte Aleardi,Italy,Italian,Montepalà Amarone della Valpolicella Classico,Corte Aleardi,2015
+1199,Domaine Armand Rousseau,France,Burgundy,Gevrey-Chambertin,Domaine Armand Rousseau,2019
+1201,Château Le Bon Pasteur,France,Bordeaux Right Bank,Pomerol,Château Le Bon Pasteur,1990
+1202,Gaja,Italy,Italian,Conteisa Langhe,Gaja,2015
+1206,Michel & Stéphane Ogier,France,Northern Rhône,La Belle Hélène Côte-Rôtie,Michel & Stéphane Ogier,2009
+1209,Golan Heights Winery,Israel,Israeli,Yarden Bar'on Vineyard Cabernet Sauvignon,Golan Heights Winery,2014
+1218,Maculan,Italy,Northern Italy,Fratta,Maculan,2003
+1219,The Standish,Australia,Australian,The Relic Shiraz - Viognier,The Standish,2019
+1220,Cignomoro,Italy,Southern Italy,80 Vecchie Vigne Primitivo di Manduria Old Vines,Cignomoro,2020
+1223,Paco de Santar,Portugal,Portuguese,Vinha do Contador Grande Júri,Paco de Santar,2013
+1224,Domaine Prieuré Roch,France,Burgundy,Nuits 1er Cru,Domaine Prieuré Roch,2009
+1226,Château de Vaudieu,France,Southern Rhône,Châteauneuf-du-Pape Amiral G,Château de Vaudieu,2017
+1227,Château Mont-Redon,France,Southern Rhône,Châteauneuf-du-Pape,Château Mont-Redon,1993
+1228,Catena Zapata,Argentina,Argentinian,Adrianna Vineyard Mundus Bacillus Terrae Malbec,Catena Zapata,2018
+1229,Rutini,Argentina,Argentinian,Felipe Rutini,Rutini,1993
+1233,Greenock Creek,Australia,Australian,Roennfeldt Road Shiraz,Greenock Creek,2005
+1235,Calera,United States,Californian,Pinot Noir Jensen Vineyard,Calera,2007
+1236,Domaine Prieuré Roch,France,Burgundy,Nuits-Saint-Georges 1er Cru 'Clos des Corvées',Domaine Prieuré Roch,2017
+1238,Domaine Anne Gros,France,Burgundy,Echezeaux Grand Cru Les Loachausses,Domaine Anne Gros,2017
+1240,Luigi Baudana,Italy,Italian,Barolo Cerretta,Luigi Baudana,2007
+1241,Piero Busso,Italy,Italian,Gallina Barbaresco,Piero Busso,2017
+1243,Joseph Drouhin,France,Burgundy,Beaune 1er Cru 'Clos des Mouches',Joseph Drouhin,2019
+1244,Château Le Gay,France,Bordeaux Right Bank,Pomerol,Château Le Gay,2016
+1245,Château Puech-Haut,France,Languedoc-Roussillon,Clos du Pic Saint-Drézéry,Château Puech-Haut,2013
+1246,Domaine de l'Aurage,France,Bordeaux,Castillon - Côtes de Bordeaux,Domaine de l'Aurage,2019
+1247,Gérard Raphet,France,Burgundy,Clos de Vougeot Grand Cru,Gérard Raphet,2009
+1248,Domaine Christophe Pichon,France,Northern Rhône,La Comtesse en Côte Blonde,Domaine Christophe Pichon,2016
+1251,Domaine Dujac,France,Burgundy,Clos de la Roche Grand Cru,Domaine Dujac,2013
+1256,Domaine Gourt de Mautens,France,Southern Rhône,Côtes du Rhône Villages Rasteau,Domaine Gourt de Mautens,2001
+1257,Robert Groffier,France,Burgundy,Bonnes-Mares Grand Cru,Robert Groffier,2005
+1258,Domaine Georges Mugneret-Gibourg,France,Burgundy,Échezeaux Grand Cru,Domaine Georges Mugneret-Gibourg,2009
+1259,Jean-Michel Gerin,France,Northern Rhône,La Landonne Côte-Rôtie,Jean-Michel Gerin,2016
+1262,Clos l'Eglise,France,Bordeaux Right Bank,Pomerol,Clos l'Eglise,2017
+1267,Domaine du Comte Liger-Belair,France,Burgundy,Nuits-Saint-Georges Premier Cru Clos des Grandes Vignes,Domaine du Comte Liger-Belair,2015
+1270,Domaine Saint Préfert,France,Southern Rhône,Collection Charles Giraud Châteauneuf-du-Pape,Domaine Saint Préfert,2018
+1271,Domaine Lafage,France,Languedoc-Roussillon,Le Vignon,Domaine Lafage,2017
+1272,Stephane Montez - Domaine du Monteillet,France,Northern Rhône,Côte-Rotie Bons Arrêts Monopole,Stephane Montez - Domaine du Monteillet,2017
+1275,Château de la Tour,France,Burgundy,Vieilles Vignes Clos Vougeot Grand Cru,Château de la Tour,2017
+1279,Domaine de Marcoux,France,Southern Rhône,Châteauneuf-du-Pape Vieilles Vignes,Domaine de Marcoux,2010
+1280,Marqués de Murrieta,Spain,Spanish,Reserva Rioja (Finca Ygay),Marqués de Murrieta,1954
+1285,Jacques Cacheux,France,Burgundy,Echezeaux Grand Cru,Jacques Cacheux,2005
+1286,Domaine Leroy,France,Burgundy,Clos de Vougeot Grand Cru,Domaine Leroy,2001
+1289,Bel Air-Marquis d'Aligre,France,Bordeaux Left Bank,Margaux,Bel Air-Marquis d'Aligre,1970
+1290,André Brunel,France,Southern Rhône,Les Cailloux Cuvée Centenaire Châteauneuf-du-Pape,André Brunel,1990
+1292,M. Chapoutier,France,Northern Rhône,Ermitage Les Greffieux,M. Chapoutier,2006
+1293,Diamond Creek,United States,Napa Valley,Gravelly Meadow Cabernet Sauvignon,Diamond Creek,2018
+1295,Domaine Trapet,France,Burgundy,Latricières-Chambertin Grand Cru,Domaine Trapet,2010
+1296,Palmaz,United States,Napa Valley,Gaston Cabernet Sauvignon,Palmaz,2017
+1297,Hartenberg,South Africa,South African,The Stork,Hartenberg,2017
+1298,E. Guigal,France,Northern Rhône,Côte-Rôtie Blonde La Mouline ,E. Guigal,2012
+1299,Golan Heights Winery,Israel,Israeli,Yarden Yonatan Vineyard Cabernet Sauvignon,Golan Heights Winery,2010
+1300,Domaine Bruno Clair,France,Burgundy,Chambertin Clos de Bèze Grand Cru,Domaine Bruno Clair,2011
+1305,Rocche dei Manzoni,Italy,Italian,Vigna Cappella di S. Stefano Perno Barolo,Rocche dei Manzoni,2015
+1310,The Hess Collection,United States,Napa Valley,The Lion Mount Veeder Estate Cabernet Sauvignon,The Hess Collection,2016
+1311,Domaine Lionnet,France,Northern Rhône,Terre Brûlée Cornas,Domaine Lionnet,2005
+1312,Wendouree,Australia,Australian,Shiraz,Wendouree,2010
+1313,Domaine Faiveley,France,Burgundy,Mazis-Chambertin Grand Cru,Domaine Faiveley,2016
+1314,Château de la Tour,France,Burgundy,Clos Vougeot Grand Cru,Château de la Tour,2018
+1316,Château Magdelaine,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Magdelaine,1983
+1317,Sherwin Family Vineyards,United States,Napa Valley,Estate Cabernet Sauvignon,Sherwin Family Vineyards,2017
+1320,Philippe Livera (Domaine des Tilleuls),France,Burgundy,Gevrey-Chambertin 'Les Evocelles',Philippe Livera (Domaine des Tilleuls),2017
+1324,René Bouvier,France,Burgundy,Charmes-Chambertin Grand Cru,René Bouvier,2014
+1325,Domaine Rossignol-Trapet,France,Burgundy,Chapelle-Chambertin Grand Cru,Domaine Rossignol-Trapet,2017
+1326,Méo-Camuzet,France,Burgundy,Echezeaux Grand Cru 'Les Rouges du Bas',Méo-Camuzet,2012
+1327,Zuccardi,Argentina,Argentinian,Finca Piedra Infinita Supercal,Zuccardi,2017
+1332,Domaine du Comte Liger-Belair,France,Burgundy,Vosne-Romanée Premier Cru Aux Reignots,Domaine du Comte Liger-Belair,2005
+1335,Hundred Acre,Australia,Australian,Ancient Way Vineyard Summer's Block Shiraz,Hundred Acre,2006
+1336,Château Rauzan-Gassies,France,Bordeaux Left Bank,Gassies Margaux,Château Rauzan-Gassies,2004
+1338,Domaine Comte Georges de Vogüé,France,Burgundy,Chambolle-Musigny,Domaine Comte Georges de Vogüé,2019
+1339,The Cave,Israel,Israeli,Old Vines,The Cave,2010
+1342,Domaine de la Vougeraie,France,Burgundy,Bonnes Mares Grand Cru,Domaine de la Vougeraie,2006
+1343,Quinta da Boavista,Portugal,Portuguese,Vinha do Oratório Vinhas Velhas,Quinta da Boavista,2017
+1344,Le Chiuse,Italy,Italian,Diecianni Brunello di Montalcino Riserva,Le Chiuse,2012
+1345,Domaine du Comte Liger-Belair,France,Burgundy,Echezeaux Grand Cru,Domaine du Comte Liger-Belair,2007
+1346,Domaine Leroy,France,Burgundy,Vosne-Romanée 1er Cru 'Les Beaux Monts',Domaine Leroy,1996
+1348,Bouchard Père & Fils,France,Burgundy,Chambertin-Clos-de-Beze Grand Cru,Bouchard Père & Fils,2013
+1352,La Rioja Alta,Spain,Spanish,Rioja Gran Reserva 904,La Rioja Alta,1978
+1353,Domaine Armand Rousseau,France,Burgundy,Gevrey-Chambertin 1er Cru Lavaux St. Jacques,Domaine Armand Rousseau,2015
+1357,Domaine de la Vougeraie,France,Burgundy,Corton Grand Cru Le 'Clos du Roi',Domaine de la Vougeraie,2017
+1358,Paul Autard,France,Southern Rhône,Cuvée La Côte Ronde Châteauneuf-du-Pape,Paul Autard,2018
+1362,Domaine Dujac,France,Burgundy,Morey-Saint-Denis Premier Cru,Domaine Dujac,2015
+1363,Domaine Tortochot,France,Burgundy,Chambertin Grand Cru,Domaine Tortochot,2015
+1364,Henri Richard,France,Burgundy,Mazoyères-Chambertin Grand Cru,Henri Richard,2013
+1365,Domaine Jacques Prieur,France,Burgundy,Chambertin Grand Cru,Domaine Jacques Prieur,2013
+1368,Château Ausone,France,Bordeaux Right Bank,Chapelle d'Ausone Saint-Émilion Grand Cru,Château Ausone,2016
+1370,Laurent Roumier,France,Burgundy,Clos-Vougeot Grand Cru,Laurent Roumier,2018
+1372,Terroir Al Límit Soc. Lda,Spain,Spanish,Les Manyes,Terroir Al Límit Soc. Lda,2018
+1373,Niepoort,Portugal,Portuguese,Douro Turris,Niepoort,2016
+1377,Bouchard Père & Fils,France,Burgundy,Chapelle-Chambertin Grand Cru,Bouchard Père & Fils,2009
+1378,Domaine Leroy,France,Burgundy,Richebourg Grand Cru,Domaine Leroy,1996
+1382,Delas,France,Northern Rhône,La Landonne Côte-Rôtie,Delas,2017
+1384,Domaine René Engel,France,Burgundy,Vosne-Romanée,Domaine René Engel,2000
+1385,Sequoia Grove,United States,Napa Valley,Cabernet Sauvignon Lamoreaux Vineyard ,Sequoia Grove,2016
+1390,Domaine de la Vougeraie,France,Burgundy,Charmes-Chambertin Grand Cru Les Mazoyères,Domaine de la Vougeraie,2017
+1391,Domaine Comte Georges de Vogüé,France,Burgundy,Bonnes-Mares Grand Cru,Domaine Comte Georges de Vogüé,2018
+1392,Hubert Lignier,France,Burgundy,Clos de la Roche Grand Cru,Hubert Lignier,2002
+1393,Buglioni,Italy,Italian,Teste Dure Amarone Riserva,Buglioni,2015
+1394,Domaine Trapet,France,Burgundy,Gevrey-Chambertin,Domaine Trapet,2000
+1397,Méo-Camuzet,France,Burgundy,Nuits-Saint-Georges 1er Cru 'Aux Boudots',Méo-Camuzet,2018
+1400,Domaine Jamet,France,Northern Rhône,Côte-Rôtie,Domaine Jamet,1996
+1401,Domaine Taupenot-Merme,France,Burgundy,Mazoyères Chambertin Grand Cru,Domaine Taupenot-Merme,2012
+1402,Comte Armand,France,Burgundy,Pommard 1er Cru 'Clos des Epeneaux' Monopole,Comte Armand,1995
+1404,Hospices de Beaune,France,Burgundy,Santenay Cuvée Christine Friedberg,Hospices de Beaune,2014
+1405,Domaine de la Vougeraie,France,Burgundy,Clos de Vougeot Grand Cru,Domaine de la Vougeraie,2018
+1406,Domaine Denis Mortet,France,Burgundy,Clos de Vougeot Grand Cru,Domaine Denis Mortet,2011
+1407,Quinta das Bágeiras,Portugal,Central Portugal,Fogueira,Quinta das Bágeiras,2004
+1415,Méo-Camuzet,France,Burgundy,Richebourg Grand Cru,Méo-Camuzet,2008
+1417,Black Stallion,United States,Californian,Bucephalus Red Blend,Black Stallion,2018
+1421,Domaine Georges Mugneret-Gibourg,France,Burgundy,La Colombière Vosne-Romanée,Domaine Georges Mugneret-Gibourg,2018
+1426,Bouchard Père & Fils,France,Burgundy,La Romanée Grand Cru,Bouchard Père & Fils,1990
+1427,Quinta da Boavista,Portugal,Portuguese,Quinta da Boavista Vinha do Ujo Vinhas Velhas,Quinta da Boavista,2017
+1435,Domaine Dujac,France,Burgundy,Bonnes-Mares Grand Cru,Domaine Dujac,2009
+1436,Bruno Giacosa,Italy,Italian,Barbaresco Santo Stefano Riserva,Bruno Giacosa,1990
+1446,Viñedo Chadwick,Chile,Chilean,Red,Viñedo Chadwick,2020
+1448,Domaine Leroy,France,Burgundy,Clos de la Roche Grand Cru,Domaine Leroy,2001
+1451,Catena Zapata,Argentina,Argentinian,Adrianna Vineyard River Stones Malbec,Catena Zapata,2019
+1452,Mas Becha,France,Languedoc-Roussillon,MVD,Mas Becha,2015
+1453,Boekenhoutskloof,South Africa,South African,The Journeyman,Boekenhoutskloof,2011
+1456,Fait Main,United States,Napa Valley,Las Piedras Vineyard,Fait Main,2017
+1460,Domaine G. Roumier,France,Burgundy,Chambolle-Musigny 1er Cru 'Amoureuses',Domaine G. Roumier,2004
+1462,Mommessin,France,Burgundy,Clos de Tart Grand Cru,Mommessin,2005
+1474,Vineyard 29,United States,Napa Valley,Estate Cabernet Sauvignon,Vineyard 29,2018
+1475,Domaine d'Auvenay (Lalou Bize Leroy),France,Burgundy,Mazis-Chambertin Grand Cru,Domaine d'Auvenay (Lalou Bize Leroy),1998
+1486,Domaine Leroy,France,Burgundy,Corton-Renardes Grand Cru,Domaine Leroy,1999
+1488,Domaine de la Vougeraie,France,Burgundy,Musigny Grand Cru,Domaine de la Vougeraie,2009
+1493,J. Truchot Martin,France,Burgundy,Clos de la Roche Grand Cru,J. Truchot Martin,2003
+1499,Domaine Denis Mortet,France,Burgundy,Chambertin Grand Cru,Domaine Denis Mortet,1999
+1539,Opus One,United States,Napa Valley,Overture,Opus One,N.V.
+1540,San Marzano,Italy,Southern Italy,60 Sessantanni Old Vines Primitivo di Manduria,San Marzano,2017
+1543,Stag's Leap Wine Cellars,United States,Napa Valley,ARTEMIS Cabernet Sauvignon,Stag's Leap Wine Cellars,2018
+1545,Austin Hope,United States,Californian,Paso Robles Cabernet Sauvignon,Austin Hope,2020
+1546,Pintia,Spain,Spanish,Toro,Pintia,2015
+1549,La Rioja Alta,Spain,Spanish,Gran Reserva 890,La Rioja Alta,2005
+1554,Silver Oak,United States,Californian,Alexander Valley Cabernet Sauvignon,Silver Oak,2017
+1556,Don Melchor,Chile,Chilean,Cabernet Sauvignon,Don Melchor,2012
+1557,Château de Beaucastel,France,Southern Rhône,Châteauneuf-du-Pape,Château de Beaucastel,2016
+1559,Caymus,United States,Napa Valley,Cabernet Sauvignon,Caymus,2019
+1570,Aalto,Spain,Spanish,Tinto,Aalto,2018
+1574,Benjamin de Rothschild - Vega Sicilia,Spain,Spanish,Macán,Benjamin de Rothschild - Vega Sicilia,2014
+1581,Dal Forno Romano,Italy,Italian,Valpolicella Superiore Monte Lodoletta,Dal Forno Romano,2008
+1584,Sena,Chile,Chilean,Aconcagua Valley,Sena,2013
+1587,Montes,Chile,Chilean,Purple Angel,Montes,2018
+1590,Muga,Spain,Spanish,Prado Enea Gran Reserva,Muga,2014
+1599,Prats & Symington (P+S),Portugal,Portuguese,Chryseia Douro,Prats & Symington (P+S),2016
+1609,Tenuta Luce,Italy,Tuscan,Luce,Tenuta Luce,2016
+1614,Catena Zapata,Argentina,Argentinian,Malbec Argentino,Catena Zapata,2019
+1617,Joseph Phelps,United States,Napa Valley,Cabernet Sauvignon,Joseph Phelps,2019
+1621,Bodegas El Nido,Spain,Spanish,Clio,Bodegas El Nido,2019
+1624,Capannelle,Italy,Tuscan,50 & 50,Capannelle,2015
+1628,Cheval des Andes,Argentina,Argentinian,Mendoza,Cheval des Andes,2016
+1632,Château Margaux,France,Bordeaux Left Bank,Pavillon Rouge du Château Margaux,Château Margaux,2000
+1634,Caymus,United States,Californian,Zinfandel,Caymus,2018
+1635,Château Rauzan-Ségla,France,Bordeaux Left Bank,Margaux (Grand Cru Classé),Château Rauzan-Ségla,2005
+1636,Braida,Italy,Italian,Bricco dell'Uccellone Barbera d'Asti,Braida,2018
+1643,Justin,United States,Californian,Isosceles,Justin,2018
+1644,Casa Ferreirinha,Portugal,Portuguese,Quinta da Leda Douro,Casa Ferreirinha,2018
+1646,Clos des Papes (Paul Avril),France,Southern Rhône,Châteauneuf-du-Pape,Clos des Papes (Paul Avril),2007
+1648,Domaine du Vieux Télégraphe,France,Southern Rhône,Châteauneuf-du-Pape (La Crau),Domaine du Vieux Télégraphe,2018
+1651,Shafer,United States,Napa Valley,One Point Five Cabernet Sauvignon,Shafer,2018
+1659,Orin Swift,United States,Napa Valley,Papillon,Orin Swift,2019
+1664,Chateau Montelena,United States,Napa Valley,The Montelena Estate Cabernet Sauvignon,Chateau Montelena,2006
+1670,Stag's Leap Wine Cellars,United States,Napa Valley,FAY Cabernet Sauvignon,Stag's Leap Wine Cellars,2015
+1671,Quintarelli Giuseppe,Italy,Italian,Valpolicella Classico Superiore,Quintarelli Giuseppe,2012
+1672,Argiolas,Italy,Southern Italy,Turriga Isola dei Nuraghi,Argiolas,2016
+1686,Château Beychevelle,France,Bordeaux Left Bank,Saint-Julien (Grand Cru Classé),Château Beychevelle,2003
+1695,Beaulieu Vineyard (BV),United States,Napa Valley,Georges De Latour Private Reserve Cabernet Sauvignon,Beaulieu Vineyard (BV),2015
+1698,La Jota,United States,Napa Valley,Cabernet Sauvignon,La Jota,2014
+1704,De Toren Private Cellar,South Africa,South African,Fusion V,De Toren Private Cellar,2018
+1709,Quintarelli Giuseppe,Italy,Northern Italy,Veneto Rosso del Bepi,Quintarelli Giuseppe,2010
+1713,Château Troplong Mondot,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Troplong Mondot,2015
+1715,Inglenook,United States,Napa Valley,Rubicon,Inglenook,2013
+1724,Château Haut-Bailly,France,Bordeaux Left Bank,Château Haut-Bailly (Cru Classé de Graves),Château Haut-Bailly,2009
+1726,Tenuta Argentiera,Italy,Italian,Bolgheri Superiore,Tenuta Argentiera,2018
+1730,Alta Vista,Argentina,Argentinian,Alto,Alta Vista,2010
+1731,Spottswoode,United States,Napa Valley,Cabernet Sauvignon,Spottswoode,2014
+1732,Bouchard Père & Fils,France,Burgundy,Vigne de l'Enfant Jésus Beaune 1er Cru 'Les Grèves',Bouchard Père & Fils,2017
+1738,Nickel & Nickel,United States,Napa Valley,State Ranch Cabernet Sauvignon,Nickel & Nickel,2018
+1754,Lan,Spain,Spanish,Culmen Reserva Rioja,Lan,2015
+1755,Poggio di Sotto,Italy,Italian,Brunello di Montalcino,Poggio di Sotto,2013
+1756,Quinta do Crasto,Portugal,Portuguese,Touriga Nacional,Quinta do Crasto,2016
+1763,Cortes de Cima,Portugal,Southern Portugal,Incógnito,Cortes de Cima,2013
+1769,Pine Ridge,United States,Napa Valley,Napa Valley Cabernet Sauvignon,Pine Ridge,2019
+1777,Nino Negri,Italy,Italian,5 Stelle Sfursat,Nino Negri,2017
+1783,Château Martet,France,Bordeaux,Réserve de Famille,Château Martet,2018
+1791,Cà dei Frati,Italy,Italian,Pietro Dal Cero Amarone della Valpolicella,Cà dei Frati,2012
+1793,Siro Pacenti,Italy,Italian,Vecchie Vigne Brunello di Montalcino,Siro Pacenti,2015
+1798,Clos Rougeard,France,Middle Loire,Saumur Champigny,Clos Rougeard,2012
+1801,Château Calon-Ségur,France,Bordeaux Left Bank,Saint-Estèphe (Grand Cru Classé),Château Calon-Ségur,1990
+1802,Clos Mogador,Spain,Spanish,Priorat,Clos Mogador,2018
+1811,Duckhorn,United States,Californian,Three Palms Vineyard Merlot,Duckhorn,2017
+1814,Domaine des Lambrays,France,Burgundy,Clos des Lambrays Grand Cru,Domaine des Lambrays,2009
+1815,Santa Ema,Chile,Chilean,Catalina,Santa Ema,2017
+1816,Tinto Pesquera,Spain,Spanish,Millenium Gran Reserva,Tinto Pesquera,2015
+1824,San Marzano,Italy,Southern Italy,60 Sessantanni Limited Edition Old Vines Primitivo di Manduria,San Marzano,2017
+1833,Clos Fourtet,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Clos Fourtet,2009
+1837,Le Macchiole,Italy,Tuscan,Paleo Rosso,Le Macchiole,2017
+1847,Zeni,Italy,Italian,Amarone della Valpolicella Classico Barriques,Zeni,2015
+1849,Bodegas Mauro,Spain,Spanish,VS,Bodegas Mauro,2017
+1850,Château des Tours,France,Southern Rhône,Vacqueyras,Château des Tours,2012
+1852,Roc de Cambes,France,Bordeaux,Côtes de Bourg,Roc de Cambes,2016
+1854,Peyre Rose,France,Languedoc-Roussillon,Clos Syrah Léone,Peyre Rose,2002
+1855,Faust,United States,Napa Valley,The Pact Cabernet Sauvignon,Faust,2018
+1856,Matusko,Croatia,Dalmatian Coast,Dingač Reserva Barrique,Matusko,2013
+1857,Château Grand-Puy-Lacoste,France,Bordeaux Left Bank,Pauillac (Grand Cru Classé),Château Grand-Puy-Lacoste,1990
+1860,Tenuta Luce,Italy,Italian,Luce Brunello di Montalcino,Tenuta Luce,2016
+1868,Château de Gourdon,France,Southern Rhône,Terrasse à l'Ombre Côtes du Rhône,Château de Gourdon,2018
+1870,Zenato,Italy,Italian,Amarone della Valpolicella Classico Riserva (Sergio Zenato),Zenato,2015
+1878,Beeslaar,South Africa,South African,Pinotage,Beeslaar,2018
+1879,Jean-Michel Gerin,France,Northern Rhône,Champin le Seigneur Côte-Rôtie,Jean-Michel Gerin,2018
+1885,Babylonstoren,South Africa,South African,Nebukadnesar,Babylonstoren,2019
+1888,Domaine de la Janasse,France,Southern Rhône,Châteauneuf-du-Pape Vieilles Vignes,Domaine de la Janasse,2007
+1889,Roagna,Italy,Italian,Pira Barolo,Roagna,2014
+1892,DuMOL,United States,Californian,Wester Reach Pinot Noir,DuMOL,2019
+1900,Château Belair-Monange,France,Bordeaux Right Bank,Saint-Émilion Grand Cru (Premier Grand Cru Classé),Château Belair-Monange,2012
+1902,Domenico Clerico,Italy,Italian,Barolo Percristina,Domenico Clerico,2006
+1903,Quinta do Vesuvio,Portugal,Portuguese,Douro,Quinta do Vesuvio,2018
+1907,Colomé,Argentina,Argentinian,Altura Máxima Malbec,Colomé,2016
+1916,Gaja,Italy,Italian,Pieve Santa Restituta Rennina Brunello di Montalcino,Gaja,2013
+1920,Podere le Ripi,Italy,Italian,Amore e Magia Brunello di Montalcino,Podere le Ripi,2016
+1924,Pierre Usseglio,France,Southern Rhône,Châteauneuf-du-Pape Cuvée de mon Aïeul,Pierre Usseglio,2016
+1929,Contino,Spain,Spanish,Viña del Olivo,Contino,2017
+1931,Bruno Giacosa,Italy,Italian,Falletto Barbaresco Asili,Bruno Giacosa,2007
+1934,Martinet,Spain,Spanish,Clos Martinet,Martinet,2014
+1943,Muga,Spain,Spanish,Aro,Muga,2016
+1944,Château La Nerthe,France,Southern Rhône,Cuvée des Cadettes Châteauneuf-du-Pape,Château La Nerthe,2016
+1946,By Farr,Australia,Australian,Farrside Pinot Noir,By Farr,2019
+1948,La Spinetta,Italy,Italian,Vürsù Barbaresco Gallina,La Spinetta,2005
+1957,Roagna,Italy,Italian,Pajè Barbaresco,Roagna,2013
+1958,Saronsberg,South Africa,South African,Full Circle,Saronsberg,2017
+1961,Rust En Vrede,South Africa,South African,1694 Classification Red,Rust En Vrede,2016
+1965,Cortes de Cima,Portugal,Southern Portugal,Reserva Tinto,Cortes de Cima,2014
+1968,Bernardus,United States,Californian,Marinus,Bernardus,2012
+1969,Neyen,Chile,Chilean,Espiritu de Apalta,Neyen,2017
+1974,Rijk's,South Africa,South African,Reserve Pinotage,Rijk's,2015
+1975,Salvioni,Italy,Italian,Brunello di Montalcino,Salvioni,2015
+1976,Feteasca Alba,Roumanie,Olténie,Banu Maracine,7 Arts Winery,
+1977,Amiral de Beychevelle,France,Bordeaux,Saint-Julien,Château Beychevelle,
+1978,Bollinger Spéciale Cuvée,France,Champagne,Champagne,Bollinger,
+1979,Buisson Renard,France,Vallée de la Loire,Pouilly-Fumé,Domaine Dagueneau,
+1980,Carruades de Lafite,France,Bordeaux,Pauillac,Château Lafite,
+1981,Château Carbonnieux,France,Bordeaux,Pessac-Léognan,Château Carbonnieux,
+1982,Cos d'Estournel,France,Bordeaux,Saint-Estèphe,Château Cos d'Estournel,
+1983,Château Coutet,France,Bordeaux,Sauternes-Barsac,Château Coutet,
+1984,Château d'Yquem,France,Bordeaux,Sauternes,Château d'Yquem,
+1985,Château de Fieuzal,France,Bordeaux,Pessac-Léognan,Château de Fieuzal,
+1986,Château de Fieuzal,France,Bordeaux,Pessac-Léognan,Château de Fieuzal,
+1987,Coteaux du Layon Vieilles Vignes,France,Vallée de la Loire,Coteaux du Layon,Château des Rochettes,
+1988,Château Ducru-Beaucaillou,France,Bordeaux,Saint-Julien,Château Ducru-Beaucaillou,
+1989,Château Haut-Brion,France,Bordeaux,Pessac-Léognan,Château Haut-Brion,
+1990,Château Haut-Marbuzet,France,Bordeaux,Saint-Estèphe,Château Haut-Marbuzet,
+1991,Château La Conseillante,France,Bordeaux,Pomerol,Château La Conseillante,
+1992,Château Lagrange,France,Bordeaux,Saint-Julien,Château Lagrange,
+1993,Château Lynch-Bages,France,Bordeaux,Pauillac,Château Lynch-Bages,
+1994,Pavillon Rouge,France,Bordeaux,Margaux,Château Margaux,
+1995,Château Masburel,France,Sud-Ouest,Montravel,Château Masburel,
+1996,Château Masburel,France,Sud-Ouest,Montravel,Château Masburel,
+1997,Château Pape Clément,France,Bordeaux,Pessac-Léognan,Château Pape Clément,
+1998,Château Pontet Canet,France,Bordeaux,Pauillac,Château Pontet Canet,
+1999,Château Potensac,France,Bordeaux,Médoc,Château Potensac,
+2000,Château Rauzan-Ségla,France,Bordeaux,Margaux,Château Rauzan-Ségla,
+2001,Château Simone,France,Provence,Palette,Château Simone,
+2002,Chemin de Moscou,France,Languedoc-Roussillon,IGP Pays d'Oc,Domaine Gayda,
+2003,Chinon Vieilles Vignes,France,Vallée de la Loire,Chinon,Philippe Alliet,
+2004,Nuits Saint-Georges 1er cru,France,Bourgogne,Nuits Saint-Georges,Domaine de l'Arlot,
+2005,Clos de Los Siete,Argentine,Mendoza,-,Michel Rolland,
+2006,Clos de Saint Yves,France,Vallée de la Loire,Savennières,Domaine des Baumard,
+2007,Consul de Masburel,France,Sud-Ouest,Côtes de Bergerac,Château Masburel,
+2008,De battre mon coeur s'est arrêté,France,Languedoc-Roussillon,Côtes-du-Roussillon Villages,Le Clos des Fées,
+2009,Dom Perignon,France,Champagne,Champagne,Dom Pérignon,
+2010,Domaine de Montcalmès,France,Languedoc-Roussillon,Terrasses du Larzac,Domaine de Montcalmès,
+2011,Nectar Des Dieux (NDD),France,Sud-Ouest,Vin de France,Fabien Jouves,
+2012,Nectar Des Dieux (NDD),France,Sud-Ouest,Vin de France,Fabien Jouves,
+2013,La Cuisine de Ma Mère,France,Vallée de la Loire,Chinon,Domaine Grosbois,
+2014,Mi-Pente,France,Vallée de la Loire,Bourgueil,Domaine de la Butte,
+2015,Les Hauts de Husseau,France,Vallée de la Loire,Montlouis sur Loire,Domaine de La Taille Aux Loups,
+2016,Rémus,France,Vallée de la Loire,Montlouis sur Loire,Domaine de La Taille Aux Loups,
+2017,Venise,France,Vallée de la Loire,Montlouis sur Loire,Domaine de La Taille Aux Loups,
+2018,La Nine,France,Languedoc-Roussillon,Minervois,Jean-Baptiste Sénat,
+2019,La Singulière,France,Vallée de la Loire,Chinon,Olga Raffaut,
+2020,Les Mémoires,France,Vallée de la Loire,Saumur Champigny,Thierry Germain,
+2021,La Cité Orientale,France,Sud-Ouest,IGP Comté Tolosan,Lionel Osmin,
+2022,Tout un Monde,France,Savoie,Vin De Savoie Arbin,Louis Magnin,
+2023,L d'Or,France,Vallée de la Loire,Muscadet,Domaine Luneau Papin,
+2024,Syrah Léone,France,Languedoc-Roussillon,Vin de France,Domaine Peyre Rose,
+2025,Trevallon,France,Provence,IGP Alpilles,Domaine de Trevallon,
+2026,Excelsior,France,Vallée de la Loire,Muscadet,Domaine Luneau Papin,
+2027,Vosne Romanée,France,Bourgogne,Vosne Romanée,Domaine Drouhin,
