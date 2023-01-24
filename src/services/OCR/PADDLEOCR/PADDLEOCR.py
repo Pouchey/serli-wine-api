@@ -15,10 +15,7 @@ class PADDLEOCR(OCR):
     def predict(self, image):
         # Get the prediction from the model
         result = self.model.ocr(image, cls=True)
-        print("=====================================================================")
-        print("PADDLEOCR prediction: ", result)
         # get an array of all the predictions words (only the tuples (word, probability)))
-
         words = []
         for res in result:
             for line in res:
@@ -27,20 +24,6 @@ class PADDLEOCR(OCR):
                 print(f'PREDICTION : {word} =============> {probability} %')
                 words.append((word))
 
-        # get an array of all the predictions words (only the words)
-        print("=====================================================================")
-        print("PADDLEOCR words: ", words)
-
         # join all the words into a string
         prediction = " ".join(words)
-
         return prediction
-
-        # predictions
-        # #predictions = [prediction[1][0] for prediction in result]
-        # predictions = []
-        # print("=====================================================================")
-        # print("PADDLEOCR prediction: ", predictions)
-        # # join all the words into a string
-        # prediction = " ".join(predictions)
-        # return prediction
